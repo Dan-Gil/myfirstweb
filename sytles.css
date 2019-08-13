@@ -63,8 +63,8 @@ h1 {
 
 #fun-fact p {
     position: absolute;
-    left: 50%;
-    top: 100%;
+    left: 80%;
+    top: 80%;
 }
 
 
@@ -82,10 +82,9 @@ h1 {
 
 }
 
-#contact p {
+#contact a {
     position: absolute;
     left: 50%;
-    bottom: 100%;
-
-    
+    bottom: 10%;
+   
 }
