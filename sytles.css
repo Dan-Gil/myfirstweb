@@ -1,0 +1,91 @@
+img {
+    width: 250px;
+    height: auto;
+    }
+
+* {
+    margin: 0;
+    padding: 0;
+    color: white;
+    
+}
+
+#title {
+    width: 100vw;
+    height: 25vh;
+    background-color: darkred;
+    position: relative;
+
+}
+
+h1 {
+    color: white;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    display: inline;
+
+}
+
+
+#about-me {
+    width: 100vw;
+    height: 25vh;
+    background-color: purple;
+    position: relative;
+}
+#about-me h2 {
+    position: absolute;
+    left: 50%;
+    top: 0%
+}
+
+#about-me p {
+    position: absolute;
+    left: 0%;
+    top: 60%;
+    
+}
+
+
+#fun-fact {
+    width: 100vw;
+    height: 25vh;
+    background-color: magenta;
+    position: relative;
+}
+
+#fun-fact h2 {
+    position: absolute;
+    left: 50%;
+    top: 50%
+}
+
+#fun-fact p {
+    position: absolute;
+    left: 50%;
+    top: 100%;
+}
+
+
+#contact {
+    width: 100vw;
+    height: 25vh;
+    background-color: darkblue;
+    position: relative;
+}
+
+#contact h2 {
+    position: absolute;
+    left: 50%;
+    top: 50%
+
+}
+
+#contact p {
+    position: absolute;
+    left: 50%;
+    bottom: 100%;
+
+    
+}
